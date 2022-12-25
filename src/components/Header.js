@@ -5,7 +5,6 @@ import CloseIcon from '@mui/icons-material/Close';
 
 function Header() {
 
-  console.log('ths ist tesgsjlak');
  const [burgerStatus , setBurgerstatus] =useState(false);
 
   return (
